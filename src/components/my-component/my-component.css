@@ -1,0 +1,7 @@
+:host {
+    --theme-color: aqua;
+}
+
+.hello {
+    background-color: var(--theme-color);
+}
